@@ -39,6 +39,7 @@ void siswa::setId(int pId)
 }
 
 
+
 int main()
 {
     orang joko;
